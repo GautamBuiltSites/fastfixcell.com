@@ -1,4 +1,14 @@
-body {
-  background-color: blue; }
+.logo-text-style {
+	margin-left: 20px;
+}
 
+a {
+	float: left;
+}
+
+i {
+	color: white;
+	margin-top: 11px;
+	float: right;
+}
 /*# sourceMappingURL=main.css.map */
